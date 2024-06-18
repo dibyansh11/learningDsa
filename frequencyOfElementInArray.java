@@ -7,7 +7,6 @@ public class frequencyOfElementInArray {
             int cnt = 0 ; 
             for(int  j = 0 ; j < n ; j++)
             {
-                
                 if(a[j] == a[i])
                 {
                     cnt++;
